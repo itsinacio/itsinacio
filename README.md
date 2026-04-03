@@ -1,7 +1,4 @@
-## Ola, me chamo Inácio Rodrigues Gonçalves e estou treinado Git e GitHub
-## não sei mexer direito nisso, mas estou aprendendo, me perdoem caso vejam algo ABSURDO
-## 2 + 9 = 11
-
+# 🚀 Inácio Rodrigues | C# .NET Developer em desenvolvimento
 <!--
 **itsinacio/itsinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
