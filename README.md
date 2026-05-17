@@ -1,4 +1,4 @@
-# 🚀 Inácio Rodrigues | C# .NET Developer em desenvolvimento
+# C# .NET Developer em desenvolvimento
 <!--
 **itsinacio/itsinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
