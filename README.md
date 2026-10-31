@@ -29,7 +29,7 @@
 - 🎓 Estudante de **Ciência da Computação (B.C.C)**.
 - 🏛️ Focado em boas práticas e arquitetura: **Clean Architecture**, **Generic Repository** e **DTOs**.
 - 🗄️ Modelagem e persistência de dados com **Entity Framework Core** e **SQL Server**.
-- 🌐 Desenvolvimento web com **HTML5, CSS3 e JavaScript**.
+- 🌐 Desenvolvimento frontend com **HTML5, CSS3 e JavaScript**.
 
 ---
 
