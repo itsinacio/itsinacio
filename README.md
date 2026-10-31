@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/in%C3%A1cio-rodrigues-81b821305/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/inaciox23.dev/" target="_blank">
+    <a href="https://www.instagram.com/itsinacio.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" alt="Instagram"/>
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=inacior789@gmail.com" target="_blank">
