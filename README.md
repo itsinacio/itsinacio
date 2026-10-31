@@ -41,7 +41,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><b>C#</b>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/><br/><b>.NET</b>
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" width="40" height="40" alt=".NET"/><br/><b>.NET</b>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="EF Core"/><br/><b>EF Core</b>
