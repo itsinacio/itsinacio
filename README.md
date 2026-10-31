@@ -37,30 +37,36 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><b>C#</b>
     </td>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/><br/><b>.NET</b>
     </td>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="EF Core"/><br/><b>EF Core</b>
     </td>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/><br/><b>SQL Server</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><b>Python</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><b>JavaScript</b>
     </td>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/><b>HTML5</b>
     </td>
-    <td align="center" width="105">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/><b>CSS3</b>
     </td>
-    <td align="center" width="105">
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br/><b>Postman</b>
+    </td>
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><b>Git</b>
     </td>
   </tr>
