@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=4389A2&center=true&vCenter=true&width=550&lines=Desenvolvedor+C%23+%26+.NET;APIs+RESTful+com+Clean+Architecture;Entity+Framework+Core+%26+SQL+Server;HTML5+%7C+CSS3+%7C+JavaScript" alt="Typing SVG" />
   </a>
 
-  <!-- Redes Sociais Compactas -->
+   <!-- Redes Sociais Compactas -->
   <p align="center">
     <a href="https://www.linkedin.com/in/in%C3%A1cio-rodrigues-81b821305/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn"/>
@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/inaciox23.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" alt="Instagram"/>
     </a>
-    <a href="mailto:inacior789@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%20In%C3%A1cio,%20vi%20seu%20perfil%20no%20GitHub!">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=inacior789@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Gmail"/>
     </a>
   </p>
